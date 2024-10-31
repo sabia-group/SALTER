@@ -9,7 +9,7 @@ for the purpose of reproducibility of past and future published results.
 
 References
 ----------
-1.  A. Lewis, P. Lazzaroni, M. Rossi, J. Chem. Phys. 159, 014103 (2023). 
+1. A. Lewis, P. Lazzaroni, M. Rossi, J. Chem. Phys. 159, 014103 (2023). 
 
 Dependencies
 ------------
