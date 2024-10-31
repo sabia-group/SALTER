@@ -9,7 +9,7 @@ for the purpose of reproducibility of past and future published results.
 
 References
 ----------
-1. A. Lewis, P. Lazzaroni, M. Rossi, J. Chem. Phys. 159, 014103 (2023). 
+Alan Lewis, Paolo Lazzaroni, Mariana Rossi, J. Chem. Phys. 159, 014103 (2023). 
 
 Dependencies
 ------------
@@ -18,6 +18,10 @@ Modified version of TENSOAP:  https://github.com/alanmlewis/TENSOAP
 Example and Workflow
 -------------
 Check the examples directory
+
+Developer of SALTER infrastructure
+----------------------------------
+Alan M. Lewis
 
 Contact
 -------
