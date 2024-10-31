@@ -19,6 +19,10 @@ Example and Workflow
 -------------
 Check the examples directory
 
+Developer of SALTER infrastructure
+----------------------------------
+Alan M. Lewis
+
 Contact
 -------
 mariana.rossi@mpsd.mpg.de and alan.m.lewis@york.ac.uk
